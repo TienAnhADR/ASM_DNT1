@@ -1,0 +1,266 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Tiến Anh",
+      "email": "anhntph37315@fpt.edu.vn",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Hữu Đăng",
+      "email": "dangnhph37315@fpt.edu.vn",
+      "password": "12345"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Hữu Đăng",
+      "email": "admin",
+      "password": "12345"
+    },
+    {
+      "id": "202d",
+      "name": "tanh",
+      "password": "1234",
+      "email": "abc"
+    },
+    {
+      "id": "eeea",
+      "name": "abc",
+      "password": "4321",
+      "email": "abc123@gmail.com"
+    },
+    {
+      "id": "cbe9",
+      "name": "abcabc",
+      "password": "1234",
+      "email": "vun54459@gmail.com"
+    },
+    {
+      "name": "tttt",
+      "email": "anh55@gmail.com",
+      "password": "4321",
+      "id": "a954"
+    }
+  ],
+  "sanphams": [
+    {
+      "id": "1",
+      "tensanpham": "Cappuccino",
+      "gia": 4.2,
+      "hinhanh": "https://cdn.zmescience.com/wp-content/uploads/2018/04/Cappuccino_at_Sightglass_Coffee-1.jpg",
+      "loai": 1,
+      "nguyenlieu": "With Steamed Milk",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "2",
+      "tensanpham": "Cappuccino",
+      "gia": 4.2,
+      "loai": 1,
+      "hinhanh": "https://th.bing.com/th/id/OIP.D54P-qvblMRZaexsJy3_wQHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "nguyenlieu": "With Foam",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "3",
+      "tensanpham": "Cappuccino",
+      "gia": 4.2,
+      "loai": 1,
+      "hinhanh": "https://cdn.zmescience.com/wp-content/uploads/2018/04/Cappuccino_at_Sightglass_Coffee-1.jpg",
+      "nguyenlieu": "With Steamed Milk",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "4",
+      "tensanpham": "Cappuccino",
+      "gia": 4.2,
+      "loai": 1,
+      "hinhanh": "https://th.bing.com/th/id/OIP.D54P-qvblMRZaexsJy3_wQHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "nguyenlieu": "With Foam",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "5",
+      "tensanpham": "Robusta Beans",
+      "gia": 4.2,
+      "loai": 2,
+      "hinhanh": "https://th.bing.com/th/id/OIP.D54P-qvblMRZaexsJy3_wQHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "nguyenlieu": "With Steamed Milk",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "6",
+      "tensanpham": "Cappuccino",
+      "gia": 4.2,
+      "loai": 2,
+      "hinhanh": "https://cdn.zmescience.com/wp-content/uploads/2018/04/Cappuccino_at_Sightglass_Coffee-1.jpg",
+      "nguyenlieu": "With Foam",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "7",
+      "tensanpham": "Robusta Beans",
+      "gia": 4.2,
+      "loai": 2,
+      "hinhanh": "https://th.bing.com/th/id/OIP.D54P-qvblMRZaexsJy3_wQHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "nguyenlieu": "With Steamed Milk",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    },
+    {
+      "id": "8",
+      "tensanpham": "Robusta Beans",
+      "gia": 4.2,
+      "loai": 2,
+      "hinhanh": "https://cdn.zmescience.com/wp-content/uploads/2018/04/Cappuccino_at_Sightglass_Coffee-1.jpg",
+      "nguyenlieu": "With Foam",
+      "noidung": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed!"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 1,
+      "sanphamId": 1
+    },
+    {
+      "id": "2",
+      "comment": "ok",
+      "danhgia": 4,
+      "userId": 1,
+      "sanphamId": 2
+    },
+    {
+      "id": "3",
+      "comment": "ok",
+      "danhgia": 3,
+      "userId": 1,
+      "sanphamId": 3
+    },
+    {
+      "id": "4",
+      "comment": "ok",
+      "danhgia": 4,
+      "userId": 1,
+      "sanphamId": 4
+    },
+    {
+      "id": "5",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 3,
+      "sanphamId": 1
+    },
+    {
+      "id": "6",
+      "comment": "ok",
+      "danhgia": 4,
+      "userId": 3,
+      "sanphamId": 2
+    },
+    {
+      "id": "7",
+      "comment": "ok",
+      "danhgia": 3,
+      "userId": 3,
+      "sanphamId": 3
+    },
+    {
+      "id": "8",
+      "comment": "ok",
+      "danhgia": 4,
+      "userId": 3,
+      "sanphamId": 4
+    },
+    {
+      "id": "9",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 2,
+      "sanphamId": 8
+    },
+    {
+      "id": "10",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 2,
+      "sanphamId": 7
+    },
+    {
+      "id": "11",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 2,
+      "sanphamId": 6
+    },
+    {
+      "id": "12",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 2,
+      "sanphamId": 5
+    },
+    {
+      "id": "13",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 1,
+      "sanphamId": 5
+    },
+    {
+      "id": "14",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 1,
+      "sanphamId": 6
+    },
+    {
+      "id": "15",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 1,
+      "sanphamId": 7
+    },
+    {
+      "id": "16",
+      "comment": "ok",
+      "danhgia": 5,
+      "userId": 1,
+      "sanphamId": 8
+    }
+  ],
+  "yeuthichs": [
+    {
+      "id": "c730",
+      "userId": "3",
+      "sanphamId": "3"
+    },
+    {
+      "id": "ed3b",
+      "userId": "3",
+      "sanphamId": "1"
+    },
+    {
+      "id": "e271",
+      "userId": "3",
+      "sanphamId": "2"
+    },
+    {
+      "id": "95bd",
+      "userId": "3",
+      "sanphamId": "6"
+    },
+    {
+      "id": "5221",
+      "userId": "3",
+      "sanphamId": "4"
+    },
+    {
+      "id": "a9df",
+      "userId": "a954",
+      "sanphamId": "1"
+    }
+  ]
+}
